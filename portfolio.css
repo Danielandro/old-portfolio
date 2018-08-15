@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Slab');
+
+
+body{
+    background-color: black; 
+    font-family: 'Roboto Slab', serif;
+}
+
+/*.navbar{
+    font-size: 1.5em;
+}
+
+.headshot{
+  float: left;
+}*/
+
+#portfolio-avatar{
+  padding: 50px;
+  
+}
+
+.jumbotron{
+  margin-bottom: 0;
+  background-color: #ff9900;
+}
+
+#project-section{
+  color: #222;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+#contact-section{
+  background-color: #ff9900;
+  height: 100px;
+  width: 100%;
+  bottom: 20px;
+  text-align: center;
+}
+
+.icons{
+  color: #000;
+}
+
+/* #contact-section a{
+  padding: 20px;
+  margin-left: 15%;
+ 
+} */
+
+#github{
+    /* margin-left: 25%; */
+    margin-right: 2.5%;
+}
+
+#email{
+    margin-left: 2.5%;
+    /* margin-right: 25%; */
+}
